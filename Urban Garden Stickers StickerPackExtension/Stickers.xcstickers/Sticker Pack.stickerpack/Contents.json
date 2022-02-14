@@ -1,9 +1,119 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "alocasia_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "alocasia_02 Large Medium.sticker"
+    },
+    {
+      "filename" : "alocasia_03 Large Medium.sticker"
+    },
+    {
+      "filename" : "anthurium_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "anthurium_02 Large Medium.sticker"
+    },
+    {
+      "filename" : "anthurium_03 Large Medium.sticker"
+    },
+    {
+      "filename" : "bird_of_paradise_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "bird_of_paradise_02 Large Medium.sticker"
+    },
+    {
+      "filename" : "bird_of_paradise_04 Large Medium.sticker"
+    },
+    {
+      "filename" : "caladium_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "caladium_03 Large Medium.sticker"
+    },
+    {
+      "filename" : "caladium_04 Large Medium.sticker"
+    },
+    {
+      "filename" : "calathea_medallion_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "calathea_medallion_02 Large Medium Small-1.sticker"
+    },
+    {
+      "filename" : "calathea_medallion_03 Large Medium.sticker"
+    },
+    {
+      "filename" : "heliconia_indica_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "heliconia_indica_02 Large Medium.sticker"
+    },
+    {
+      "filename" : "heliconia_indica_03 Large Medium.sticker"
+    },
+    {
+      "filename" : "maranta_leuconeura_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "maranta_leuconeura_02 Large Medium Small.sticker"
+    },
+    {
+      "filename" : "maranta_leuconeura_04 Large Medium.sticker"
+    },
+    {
+      "filename" : "monstera_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "monstera_03 Large Medium.sticker"
+    },
+    {
+      "filename" : "monstera_04 Large Medium Small.sticker"
+    },
+    {
+      "filename" : "palm_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "palm_02 Large Medium.sticker"
+    },
+    {
+      "filename" : "palm_03 Large Medium.sticker"
+    },
+    {
+      "filename" : "pinstripe_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "pinstripe_03 Large Medium.sticker"
+    },
+    {
+      "filename" : "pinstripe_04 Large Medium.sticker"
+    },
+    {
+      "filename" : "rubber_plant_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "rubber_plant_02 Large Medium.sticker"
+    },
+    {
+      "filename" : "rubber_plant_05 Large Medium.sticker"
+    },
+    {
+      "filename" : "triostar_stromanthe_01 Large Medium.sticker"
+    },
+    {
+      "filename" : "triostar_stromanthe_02 Large Medium.sticker"
+    },
+    {
+      "filename" : "triostar_stromanthe_06 Large Medium.sticker"
+    }
+  ]
 }

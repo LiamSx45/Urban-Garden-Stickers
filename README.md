@@ -1,6 +1,7 @@
 # Urban-Garden-Stickers
 Do you want to start a garden but know that you can't take care of real ones? or do you simply love house plants? Now you can have a mini garden in the palm of your hand by sending stickers to anyone! These stickers are scalable and high quality. 
 
+
 ### The House Plants:
 
 - Alocasia
